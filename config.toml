@@ -1,0 +1,54 @@
+baseURL = "https://bitcoinfaq.pl/"
+languageCode = "pl-PL"
+title = "Bitcoin FAQ"
+theme = "ghostwriter"
+publishDir = "docs"
+
+[Privacy]
+
+[Privacy.disqus]
+    disable = true
+
+[Privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+
+[Author]
+    name = ""
+    profile = ""
+
+[Params]
+    intro = true
+    headline = "Bitcoin FAQ"
+    description = "Niezależny | Cypherpunkowy | Wolny od reklam i reflinków"
+    dateFormat = "2006-01-02"
+    readingTime = false
+    readingTimeText = "Szacowany czas czytania:"
+    shareTwitter = true
+    shareFacebook = true
+    shareLinkedIn = true
+    shareGooglePlus = false
+
+[Permalinks]
+    post = "/:filename/"
+
+[[menu.main]]
+    name = "Bitcoin"
+    url = "/tags/bitcoin"
+    weight = 1
+
+#[[menu.main]]
+#    name = "Anty Artykuły"
+#    url = "/tags/anty-artykuly"
+#    weight = 2
+
+[[menu.main]]
+    name = "Kontakt"
+    url = "/page/contact/"
+    weight = 10
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
