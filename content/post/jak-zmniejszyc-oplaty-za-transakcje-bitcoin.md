@@ -1,6 +1,6 @@
 ---
 title: "Jak zmniejszyć opłaty za transakcje w sieci Bitcoin?"
-date: 2020-12-26
+date: 2021-02-19
 draft: false
 tags:
   - bitcoin
@@ -10,8 +10,8 @@ tags:
 
 # TL;DR
 
-Średnie opłaty za transakcje Bitcoin są dość wysokie, rzędu $2 - $6 na koniec 2020.
-Jednak w wielu przypadkach można je zmniejszyć **nawet do kilkudziesięciu polskich groszy**.
+Średnie opłaty za transakcje Bitcoin są dość wysokie, rzędu $2 - $10 na początku 2021.
+Jednak w wielu przypadkach można je zmniejszyć **nawet do kilkudziesięciu centów**.
 
 Trzymaj środki na nowoczesnych adresach bech32.
 Korzystaj z portfeli z obsługą RBF.
@@ -51,7 +51,7 @@ Ma to dwie konsekwencje:
 
 Przykładowe nowoczesne portfele z obsługą RBF:
 
-* [Wasabi](https://docs.wasabiwallet.io/)
+* [Specter](https://github.com/cryptoadvance/specter-desktop)
 * [Electrum](https://electrum.org/)
 * [Samourai](https://samouraiwallet.com/)
 
@@ -69,11 +69,11 @@ Jeśli zależy Ci na szybkim potwierdzeniu, ustaw medianę opłaty sat/vb dla na
 
 # Brak pośpiechu? Ustaw 5 sat/vB
 
-Najpierw upewnij się, że masz ustawiony RBF. Jeśli **nie zależy Ci na czasie**, ustaw niewielką opłatę sieciową **5 sat/vB**. Dla typowej transakcji bech32 oznacza to opłatę  ~**90 groszy za całą transakcję** według kursów z grudnia 2020. Czas oczekiwania to kilka dni w normalnych warunkach. Najczęściej takie transakcje potwierdzają się w weekend.
+Najpierw upewnij się, że masz ustawiony RBF. Jeśli **nie zależy Ci na czasie**, ustaw niewielką opłatę sieciową **5 sat/vB**. Dla typowej transakcji bech32 oznacza to opłatę  ~**40 centów za całą transakcję** według kursów z połowy lutego 2021. Czas oczekiwania to kilka dni w normalnych warunkach. Najczęściej takie transakcje potwierdzają się w weekend.
 
-Technicznie transakcja jest prawidłowa już od 1 sat/vB. Takie super tanie transakcje również okresowo się potwierdzają. Może to jednak wymagać okresowego ponownego wysyłania jej do sieci - zatem opcja raczej dla świadomych i cierpliwych użytkowników.
+Technicznie transakcja jest prawidłowa już od 1 sat/vB. Historycznie takie super tanie transakcje również okresowo się potwierdzały. Obecnie jednak jest to niezalecane, może wymagać nawet miesięcy cierpliwości i wielokrotnego wysyłania transakcji do sieci.
 
-Osobiście wysyłam niemal wszystkie transakcje z opłatą transakcyjną 2-5 sat/vB.
+Osobiście (początek 2021) wysyłam niemal wszystkie transakcje z opłatą transakcyjną 5-15 sat/vB. Wcześniej przez lata było to 2-3 sat/vB.
 
 
 # Nie obawiaj się, że środki "utkną na zawsze"
@@ -96,6 +96,6 @@ Jest wiele warstw bezpieczeństwa: **dopóki masz klucze prywatne, środki nie z
 # Podsumowanie
 
 Od ręki możesz obniżyć wszystkie opłaty o połowę dzięki bech32.
-Dodatkowo, dla transakcji które nie są pilne, możesz stosować zupełnie symboliczne opłaty.
+Dodatkowo, dla transakcji które nie są pilne, możesz stosować bardzo niewielkie opłaty.
 Przed wysłaniem transakcji **ustaw RBF** aby mieć pełną kontrolę nad sytuacją i możliwość podbicia opłaty.
 

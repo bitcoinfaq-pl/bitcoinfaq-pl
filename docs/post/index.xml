@@ -1,94 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Bitcoin FAQ</title>
-    <link>https://bitcoinfaq.pl/post/</link>
-    <description>Recent content in Posts on Bitcoin FAQ</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>pl-PL</language>
-    <lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bitcoinfaq.pl/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Jak anonimowo kupić bitcoiny?</title>
-      <link>https://bitcoinfaq.pl/jak-anonimowo-kupic-bitcoiny/</link>
-      <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bitcoinfaq.pl/jak-anonimowo-kupic-bitcoiny/</guid>
-      <description>artykuł wolny od linków afiliacyjnych
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Bitcoin FAQ</title><link>https://bitcoinfaq.pl/post/</link><description>Recent content in Posts on Bitcoin FAQ</description><generator>Hugo -- gohugo.io</generator><language>pl-PL</language><lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bitcoinfaq.pl/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Jak zmniejszyć opłaty za transakcje w sieci Bitcoin?</title><link>https://bitcoinfaq.pl/jak-zmniejszyc-oplaty-za-transakcje-bitcoin/</link><pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate><guid>https://bitcoinfaq.pl/jak-zmniejszyc-oplaty-za-transakcje-bitcoin/</guid><description>artykuł wolny od linków afiliacyjnych
+TL;DR Średnie opłaty za transakcje Bitcoin są dość wysokie, rzędu $2 - $10 na początku 2021. Jednak w wielu przypadkach można je zmniejszyć nawet do kilkudziesięciu centów.
+Trzymaj środki na nowoczesnych adresach bech32. Korzystaj z portfeli z obsługą RBF. Ustawiaj symboliczne opłaty sieciowe jeśli transakcja nie jest pilna.
+Pojęcia &amp;ldquo;opłata transakcyjna&amp;rdquo; i &amp;ldquo;opłata sieciowa&amp;rdquo; oznaczają to samo i używane są zamiennie.
+Płać ze swojego portfela, nie z giełdy Tylko wtedy masz niezbędną kontrolę nad transakcją i możliwość zdefiniowania dowolnie niskiej opłaty transakcyjnej.</description></item><item><title>Kiedy sprzedać bitcoiny?</title><link>https://bitcoinfaq.pl/kiedy-sprzedac-bitcoiny/</link><pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate><guid>https://bitcoinfaq.pl/kiedy-sprzedac-bitcoiny/</guid><description>artykuł wolny od linków afiliacyjnych
+TL;DR Co do zasady, nie sprzedawaj bitcoinów. Jeśli musisz, sprzedaj minimalną ilość, która rozwiązuje problem. Dobre powody do sprzedaży mają charakter indywidualny i nie są bezpośrednio związane z ceną.
+Kiedy sprzedać bitcoiny? Co do zasady, bitcoiny należy nieustannie akumulować (dollar cost averaging / stacking sats), niezależnie od domniemanego punktu w cyklu bull/bear. Posiadanych bitcoinów nie należy sprzedawać (HODL). Próby łapania górek i dołków (&amp;ldquo;sprzedam teraz, odkupię taniej&amp;rdquo;) niemal zawsze prowadzą do posiadania znacznie mniejszej liczby bitcoinów po kilku latach, niż strategia pasywnej akumulacji i trzymania.</description></item><item><title>Jak anonimowo kupić bitcoiny?</title><link>https://bitcoinfaq.pl/jak-anonimowo-kupic-bitcoiny/</link><pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate><guid>https://bitcoinfaq.pl/jak-anonimowo-kupic-bitcoiny/</guid><description>artykuł wolny od linków afiliacyjnych
 TL;DR Nie wiąż tożsamości z bitcoinami. Kupuj możliwie anonimowo, za gotówkę, od rodziny, przyjaciół, osób prywatnych, ewentualnie w bitomatach lub fizycznych kantorach. Nie kupuj na giełdach.
 Z góry zaplanuj przyszłą zapłatę podatków: rejestruj wszystkie zdarzenia zakupowe i zachowuj ewentualne potwierdzenia zakupów.
-Bitomaty Najlepszym sposobem zakupu bitcoinów są bitomaty czyli fizyczne maszyny podobne do bankomatów. W Polsce funkcjonują dwie sieci bitomatów pod nazwami handlowymi Shitcoins.club i FlyingAtom.</description>
-    </item>
-    
-    <item>
-      <title>Jak bezpiecznie kupić portfel sprzętowy?</title>
-      <link>https://bitcoinfaq.pl/jak-bezpiecznie-kupic-portfel-sprzetowy/</link>
-      <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bitcoinfaq.pl/jak-bezpiecznie-kupic-portfel-sprzetowy/</guid>
-      <description>artykuł wolny od linków afiliacyjnych
+Bitomaty Najlepszym sposobem zakupu bitcoinów są bitomaty czyli fizyczne maszyny podobne do bankomatów. W Polsce funkcjonują dwie sieci bitomatów pod nazwami handlowymi Shitcoins.club i FlyingAtom.</description></item><item><title>Jak bezpiecznie kupić portfel sprzętowy?</title><link>https://bitcoinfaq.pl/jak-bezpiecznie-kupic-portfel-sprzetowy/</link><pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate><guid>https://bitcoinfaq.pl/jak-bezpiecznie-kupic-portfel-sprzetowy/</guid><description>artykuł wolny od linków afiliacyjnych
 TL;DR Kup anonimowo bezpośrednio u producenta. Sprawdź dokładnie stan opakowania i sprzętu, zgodnie z instrukcjami producenta. Pamiętaj, że portfele sprzętowe są najbezpieczniejszym sposobem przechowywania bitcoinów, pomimo teoretycznych ryzyk opisanych poniżej.
 Kupuj anonimowo Dlaczego to istotne? Bazy danych e-commerce sklepów internetowych wyciekają nagminnie. Spodziewaj się, że wkrótce po zakupie Twój adres zamieszkania zostanie publicznie powiązany z faktem trzymania tam portfela sprzętowego, kojarzonego z dużą wartością.
-Nie chcesz incentywizować rabunku, wymuszeń, kradzieży ani phishingu.</description>
-    </item>
-    
-    <item>
-      <title>Jak przechowywać bitcoiny?</title>
-      <link>https://bitcoinfaq.pl/jak-przechowywac-bitcoiny/</link>
-      <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bitcoinfaq.pl/jak-przechowywac-bitcoiny/</guid>
-      <description>artykuł wolny od linków afiliacyjnych
+Nie chcesz incentywizować rabunku, wymuszeń, kradzieży ani phishingu.</description></item><item><title>Jak przechowywać bitcoiny?</title><link>https://bitcoinfaq.pl/jak-przechowywac-bitcoiny/</link><pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate><guid>https://bitcoinfaq.pl/jak-przechowywac-bitcoiny/</guid><description>artykuł wolny od linków afiliacyjnych
 TL;DR Najwyższy możliwy poziom bezpieczeństwa zapewniają portfele sprzętowe. Nigdy nie trzymaj bitcoinów na giełdach ani portfelach online.
 Portfele sprzętowe Nie zarabiamy na polecaniu tych produktów. Linki w artykułach nie są afiliacyjne.
 Portfele sprzętowe są optymalnym wyborem dla ogromnej większość użytkowników.
-Portfele sprzętowe świetnie nadają się jako tzw &amp;ldquo;cold storage&amp;rdquo;. W przeciwieństwie do klasycznego &amp;ldquo;paper walleta&amp;rdquo;, portfele sprzętowe dają pełną elastyczność dysponowania środkami bez ryzykownego wgrywania klucza prywatnego na laptopa czy smartphona.</description>
-    </item>
-    
-    <item>
-      <title>Jak zmniejszyć opłaty za transakcje w sieci Bitcoin?</title>
-      <link>https://bitcoinfaq.pl/jak-zmniejszyc-oplaty-za-transakcje-bitcoin/</link>
-      <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bitcoinfaq.pl/jak-zmniejszyc-oplaty-za-transakcje-bitcoin/</guid>
-      <description>artykuł wolny od linków afiliacyjnych
-TL;DR Średnie opłaty za transakcje Bitcoin są dość wysokie, rzędu $2 - $6 na koniec 2020. Jednak w wielu przypadkach można je zmniejszyć nawet do kilkudziesięciu polskich groszy.
-Trzymaj środki na nowoczesnych adresach bech32. Korzystaj z portfeli z obsługą RBF. Ustawiaj symboliczne opłaty sieciowe jeśli transakcja nie jest pilna.
-Pojęcia &amp;ldquo;opłata transakcyjna&amp;rdquo; i &amp;ldquo;opłata sieciowa&amp;rdquo; oznaczają to samo i używane są zamiennie.
-Płać ze swojego portfela, nie z giełdy Tylko wtedy masz niezbędną kontrolę nad transakcją i możliwość zdefiniowania dowolnie niskiej opłaty transakcyjnej.</description>
-    </item>
-    
-    <item>
-      <title>Który portfel sprzętowy wybrać?</title>
-      <link>https://bitcoinfaq.pl/ktory-portfel-sprzetowy-wybrac/</link>
-      <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bitcoinfaq.pl/ktory-portfel-sprzetowy-wybrac/</guid>
-      <description>artykuł wolny od linków afiliacyjnych
+Portfele sprzętowe świetnie nadają się jako tzw &amp;ldquo;cold storage&amp;rdquo;. W przeciwieństwie do klasycznego &amp;ldquo;paper walleta&amp;rdquo;, portfele sprzętowe dają pełną elastyczność dysponowania środkami bez ryzykownego wgrywania klucza prywatnego na laptopa czy smartphona.</description></item><item><title>Który portfel sprzętowy wybrać?</title><link>https://bitcoinfaq.pl/ktory-portfel-sprzetowy-wybrac/</link><pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate><guid>https://bitcoinfaq.pl/ktory-portfel-sprzetowy-wybrac/</guid><description>artykuł wolny od linków afiliacyjnych
 TL;DR Każdy nowoczesny portfel sprzętowy jest lepszy niż jego brak. Wybierz Coldcard MK3 do przechowywania majątku (cold storage). Wybierz BitBox02 lub Trezor T do działań operacyjnych (warm storage).
 Który portfel sprzętowy wybrać? Nawet najsłabszy portfel sprzętowy jest lepszy niż trzymanie bitcoinów na giełdzie, laptopie, smartphonie czy paper wallecie. Jeśli posiadasz jakikolwiek portfel sprzętowy, korzystaj z niego.
-Nie zarabiamy na polecaniu tych produktów. Linki w artykule nie są afiliacyjne.</description>
-    </item>
-    
-    <item>
-      <title>Dlaczego Bitcoin? Polityczne</title>
-      <link>https://bitcoinfaq.pl/dlaczego-bitcoin-polityczne/</link>
-      <pubDate>Thu, 23 May 2019 21:00:00 +0200</pubDate>
-      
-      <guid>https://bitcoinfaq.pl/dlaczego-bitcoin-polityczne/</guid>
-      <description>Separacja pieniądza i państwa Rozdział kościoła i państwa uznawany jest za standard w każdym wolnym kraju. Dzięki temu, nie musimy wyznawać oficjalnej religii państwowej. Możemy legalnie wyznawać dowolną religię lub nie wyznawać żadnej.
+Nie zarabiamy na polecaniu tych produktów. Linki w artykule nie są afiliacyjne.</description></item><item><title>Dlaczego Bitcoin? Polityczne</title><link>https://bitcoinfaq.pl/dlaczego-bitcoin-polityczne/</link><pubDate>Thu, 23 May 2019 21:00:00 +0200</pubDate><guid>https://bitcoinfaq.pl/dlaczego-bitcoin-polityczne/</guid><description>Separacja pieniądza i państwa Rozdział kościoła i państwa uznawany jest za standard w każdym wolnym kraju. Dzięki temu, nie musimy wyznawać oficjalnej religii państwowej. Możemy legalnie wyznawać dowolną religię lub nie wyznawać żadnej.
 Następnym naturalnym krokiem ewolucyjnym jest rozdział pieniądza od państwa. Nie ma powodu, żeby państwa były uprzywilejowanymi graczami ekonomicznymi kosztem swoich obywateli.
- Monopol państwowy na emisję pieniądza nie ma żadnego uzasadnienia ekonomicznego. Jedynym powodem, dla którego istnieje, są zaszłości historyczne.</description>
-    </item>
-    
-    <item>
-      <title>Dlaczego Bitcoin? Praktyczne</title>
-      <link>https://bitcoinfaq.pl/dlaczego-bitcoin-praktyczne/</link>
-      <pubDate>Thu, 23 May 2019 20:59:44 +0200</pubDate>
-      
-      <guid>https://bitcoinfaq.pl/dlaczego-bitcoin-praktyczne/</guid>
-      <description>Ochrona majątku przed inflacją i konfiskatą Bitcoin pozwala przechowywać praktycznie nieograniczony majątek na jednym sekretnym numerze (tzw. kluczu prywatnym). Dzięki takiej formie jest znacznie łatwiejszy i bezpieczniejszy w przechowywaniu, niż odpowiadająca ilość złota czy gotówki.
-W przeciwieństwie do innych aktywów, bitcoinów nie da się skonfiskować w żaden systemowy czy automatyczny sposób. Jeśli właściciel prawidłowo zabezpieczył klucz prywatny, jedynym sposobem jest zmuszenie właściciela do jego ujawnienia. Jednak nawet wtedy nie jest jasne, czy właściciel ujawnił wszystkie swoje klucze.</description>
-    </item>
-    
-  </channel>
-</rss>
+Monopol państwowy na emisję pieniądza nie ma żadnego uzasadnienia ekonomicznego. Jedynym powodem, dla którego istnieje, są zaszłości historyczne.</description></item><item><title>Dlaczego Bitcoin? Praktyczne</title><link>https://bitcoinfaq.pl/dlaczego-bitcoin-praktyczne/</link><pubDate>Thu, 23 May 2019 20:59:44 +0200</pubDate><guid>https://bitcoinfaq.pl/dlaczego-bitcoin-praktyczne/</guid><description>Ochrona majątku przed inflacją i konfiskatą Bitcoin pozwala przechowywać praktycznie nieograniczony majątek na jednym sekretnym numerze (tzw. kluczu prywatnym). Dzięki takiej formie jest znacznie łatwiejszy i bezpieczniejszy w przechowywaniu, niż odpowiadająca ilość złota czy gotówki.
+W przeciwieństwie do innych aktywów, bitcoinów nie da się skonfiskować w żaden systemowy czy automatyczny sposób. Jeśli właściciel prawidłowo zabezpieczył klucz prywatny, jedynym sposobem jest zmuszenie właściciela do jego ujawnienia. Jednak nawet wtedy nie jest jasne, czy właściciel ujawnił wszystkie swoje klucze.</description></item></channel></rss>

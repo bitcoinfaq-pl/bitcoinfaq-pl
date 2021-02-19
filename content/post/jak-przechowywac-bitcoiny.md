@@ -57,7 +57,7 @@ To pomysł polegający na pamiętaniu frazy, z której wywodzi się klucz prywat
 
 Niestandardowe rozwiązania i własne pomysły w zarządzaniu kluczami prywatnymi to **zły pomysł**.
 
-Paradoksalnie, najczęściej ofiarą takiego kombinowania padają osoby techniczne i zaawansowani użytkownicy. Zakładają oni, że wymyślą lepszą metodę niż obecne najlepsze praktyki, wypracowane na przestrzeni 10 lat przez silnie techniczną społeczność kryptowalut. Potencjalne usprawnienia wymagają szerokiego peer-review.
+Paradoksalnie, najczęściej ofiarą takiego kombinowania padają osoby techniczne i zaawansowani użytkownicy. Zakładają oni, że wymyślą lepszą metodę niż obecne najlepsze praktyki, wypracowane na przestrzeni 12 lat przez silnie techniczną społeczność kryptowalut. Potencjalne usprawnienia wymagają szerokiego peer-review.
 
 Własne rozwiązania najczęściej kończą się **przypadkową** utratą środków w wyniku złego wyważenia ryzyk i nieświadomości wielowymiarowości zagadnienia (np zginął jeden element systemu, po latach użytkownik zapomniał swoje silne hasło; użytkownik zapomniał jak skonstruowany był system, sekret wyciekł w zupełnie nieoczekiwany sposób, itp).
 
@@ -69,4 +69,3 @@ Własne rozwiązania najczęściej kończą się **przypadkową** utratą środk
 **Smartphone** - podobnie jak laptop, nadaje się tylko do niewielkich kwot i eksperymentowania. Smartphone jest bezpieczniejszy niż komputer bo aplikacje są od siebie odizolowane. Malware wciąż jednak istnieje i jest prawdopodobny - zwłaszcza na słuchawkach z przestarzałym Androidem. 
 
 **Paper wallet** - to przestarzała ale niestety wciąż popularna metoda "cold storage". Choć bezpieczniejsza niż trzymanie kluczy na Windowsie, niesie jednak ze sobą [szereg ryzyk](https://en.bitcoin.it/wiki/Paper_wallet), co sprawia że nie już jest zalecana. Paper wallet jest też szalenie niewygodny - nie daje możliwości częściowej wypłaty środków; w swoim modelu bezpieczeństwa zakłada uruchamianie komputera z "ulotnego" systemu typu Tails aby uniknąć ryzyk związanych z malware.
-
