@@ -27,6 +27,8 @@ Warto mieć na uwadze, że bitomatom i fizycznym kantorom zawsze **towarzyszą k
 
 #### Shitcoins.club | [shitcoins.club](https://shitcoins.club/) | [KRS](https://rejestr.io/krs/733149/tygrysia-maska) 
 
+**OBECNIE UŻYTKOWNICY ZGŁASZAJĄ POWAŻNE PROBLEMY I UTRUDNIENIA W REALIZACJI TRANSAKCJI - UNIKAĆ DO ODWOŁANIA**
+
 * posiada kamerę dedykowaną nagrywaniu twarzy; [źródło](https://forum.bitcoin.pl/viewtopic.php?f=100&t=33652&hilit=shitcoins+club&start=20#p637526)
   * nie można **sztucznie** zakrywać twarzy (np ciemne okulary) bo może to spowodować wyrywkową weryfikację tożsamości
   * **trzeba** korzystać z maseczki, ponieważ obowiązuje rządowy nakaz noszenia maseczek; nie powoduje to weryfikacji tożsamości
